@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
 
 import pandas as pd
 import os
@@ -175,7 +170,6 @@ for filename in os.listdir(r'C:\Users\dchal\ENVS422\NorthAmerican_Snowpack\Raw_D
 
 
 
-# In[ ]:
 
 
 
